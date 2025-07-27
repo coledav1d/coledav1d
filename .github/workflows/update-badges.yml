@@ -5,22 +5,18 @@ on:
     # Runs at 0am UTC every day
     - cron: "0 0 * * *"
   workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Log level'     
-        required: true
-        default: 'warning'
-      tags:
-        description: 'Test scenario tags'
+    
 jobs:
-  update-readme:
-    name: Update Readme with badges
+  build:
     runs-on: ubuntu-latest
+    name: Generate Badges
     steps:
-      - name: Badges - Readme
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Badges
         uses: pemtajo/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_MESSAGE: "Update badges"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CREDLY_USER: cole-david.2db5ddb5
           CREDLY_SORT: POPULAR
