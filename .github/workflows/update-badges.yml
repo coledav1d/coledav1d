@@ -17,6 +17,6 @@ jobs:
       - name: Generate Badges
         uses: pemtajo/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PAT }}
           CREDLY_USER: cole-david.2db5ddb5
           
