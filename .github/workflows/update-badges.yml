@@ -19,4 +19,4 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CREDLY_USER: cole-david.2db5ddb5
-          CREDLY_SORT: POPULAR
+          
