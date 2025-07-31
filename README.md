@@ -18,7 +18,7 @@
 [![Splunk Core Certified User](https://images.credly.com/size/110x110/images/93ffdd67-fa3a-4690-9289-094e2e3d63bd/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Core-Certified-User.png)](http://www.credly.com/badges/b065d14b-8bf1-49c4-a8ba-b61af2c91c68 "Splunk Core Certified User")
 <!--END_SECTION:badges-->
 <img src=pjptbadge.png width="110" height="110"/>
-<img src=microsoft-certified-fundamentals-badge.svg>
+
 
 
 
