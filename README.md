@@ -19,6 +19,7 @@
 <a href="https://www.credly.com/badges/52291412-4108-4fa3-bee7-7fe76ca513fe" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/9c7d8ffd-cb39-46af-b095-12a8467edd3a" title="CompTIA Security+ ce Certification"><img src="https://images.credly.com/size/80x80/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ ce Certification" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4ef8020d-b426-4773-90a4-aa6a3ca1fb45" title="ISC2 Candidate"><img src="https://images.credly.com/size/80x80/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="ISC2 Candidate" width="80" height="80"></a>
+<a href="https://www.credly.com/users/cole-david.2db5ddb5/badges" title="Microsoft Certified: Azure Fundamentals"><img src="https://images.credly.com/size/80x80/images/666ce980-d6a3-4956-ac5b-ddfe09db33e6/converted20250809-33-ttwn8u.png" alt="Microsoft Certified: Azure Fundamentals" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 <img src=pjptbadge.png width="110" height="110"/>
 
